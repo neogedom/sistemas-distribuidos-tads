@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/async-rest/async-rest.iml" filepath="$PROJECT_DIR$/async-rest/async-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial-microservices/config-server/config-server.iml" filepath="$PROJECT_DIR$/tutorial-microservices/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial-microservices/greeting-service/greeting-service.iml" filepath="$PROJECT_DIR$/tutorial-microservices/greeting-service/greeting-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-payroll/ms-payroll.iml" filepath="$PROJECT_DIR$/ms-payroll/ms-payroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-worker/ms-worker.iml" filepath="$PROJECT_DIR$/ms-worker/ms-worker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sistemas-distribuidos-tads.iml" filepath="$PROJECT_DIR$/.idea/sistemas-distribuidos-tads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorialget/tutorialget.iml" filepath="$PROJECT_DIR$/tutorialget/tutorialget.iml" />
+    </modules>
+  </component>
+</project>
