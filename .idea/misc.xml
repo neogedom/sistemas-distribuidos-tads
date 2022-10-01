@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ms-worker/pom.xml" />
-        <option value="$PROJECT_DIR$/async-rest/pom.xml" />
         <option value="$PROJECT_DIR$/ms-payroll/pom.xml" />
         <option value="$PROJECT_DIR$/tutorialget/pom.xml" />
         <option value="$PROJECT_DIR$/tutorial-microservices/config-server/pom.xml" />
