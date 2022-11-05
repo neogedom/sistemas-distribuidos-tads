@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ms-worker" />
+        <module name="ms-payroll" />
+        <module name="exception-handling" />
+        <module name="config-server" />
+        <module name="greeting-service" />
+        <module name="tutorialget" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="async-rest" target="17" />
+      <module name="config-server" target="17" />
+      <module name="exception-handling" target="17" />
+      <module name="greeting-service" target="17" />
+      <module name="ms-payroll" target="17" />
+      <module name="ms-worker" target="17" />
+      <module name="tutorialget" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="async-rest" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="exception-handling" options="-parameters" />
+      <module name="greeting-service" options="-parameters" />
+      <module name="ms-payroll" options="-parameters" />
+      <module name="ms-worker" options="-parameters" />
+      <module name="tutorialget" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7572c6a-e87e-4f8e-b321-92c4a8dfd438" name="Changes" comment="exception-handling module added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FVmCA2EjztHYUQeEWhplq9Ak2w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "/home/neogedom/OneDrive/Documentos/IFMS/Disciplinas/TADS/Desenvolvimento de Sistemas Distribuídos/2022/Códigos/sistemas-distribuidos-tads",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "c97856b8e63c60259eb6296ab6c5f47a",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ExceptionHandlingApplication">
+    <configuration name="AsyncRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="async-rest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neogedom.asyncrest.AsyncRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neogedom.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="exception-handling" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neogedom.exceptionhandling.ExceptionHandlingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreetingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="greeting-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neogedom.greetingservice.GreetingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsPayrollApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-payroll" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.ifms.mspayroll.MsPayrollApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsWorkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-worker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.edu.ifms.msworker.MsWorkerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TutorialgetApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tutorialget" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.neogedom.tutorialget.TutorialgetApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7572c6a-e87e-4f8e-b321-92c4a8dfd438" name="Changes" comment="" />
+      <created>1664585495876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664585495876</updated>
+      <workItem from="1664585497281" duration="5213000" />
+      <workItem from="1664631097618" duration="464000" />
+      <workItem from="1664631894634" duration="1450000" />
+      <workItem from="1664765273767" duration="30000" />
+      <workItem from="1666141626640" duration="568000" />
+      <workItem from="1666142604189" duration="3135000" />
+      <workItem from="1666442537129" duration="707000" />
+    </task>
+    <task id="LOCAL-00001" summary="resttemplate com passagem de parametros">
+      <created>1664587985380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664587985380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="resttemplate com passagem de parametros">
+      <created>1664631151523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664631151523</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitgnore atualizado">
+      <created>1664632591007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664632591007</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gitgnore novamente atualizado">
+      <created>1664632673563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664632673563</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".idea untracked">
+      <created>1664632899434</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664632899434</updated>
+    </task>
+    <task id="LOCAL-00006" summary=".gitgnore extra removido">
+      <created>1664632955210</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664632955210</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exception-handling module added">
+      <created>1666145128041</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666145128041</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resttemplate com passagem de parametros" />
+    <MESSAGE value="gitgnore atualizado" />
+    <MESSAGE value="gitgnore novamente atualizado" />
+    <MESSAGE value=".idea untracked" />
+    <MESSAGE value=".gitgnore extra removido" />
+    <MESSAGE value="exception-handling module added" />
+    <option name="LAST_COMMIT_MESSAGE" value="exception-handling module added" />
+  </component>
+</project>
